@@ -1,0 +1,40 @@
+Set(
+    gblAppColors,
+    {
+        backgroundDark: { hex: "#2d2b2c", rgba: RGBA(45,43,44,1) },
+        backgroundDefault: { hex: "#e4e4e5", rgba: RGBA(228,228,229,1) },
+        backgroundHighContrast: { hex: "#ffffff", rgba: RGBA(255,255,255,1) },
+
+        backgroundAltDark: {hex: "#2d2b2c", rgba: RGBA(45, 43, 44,1)},
+        backgroundAltDefault: {hex:"#1b1d1f" , rgba: RGBA(27,29,31,1)},
+        backgroundAltHighContrast: {hex: "#ffffff" , rgba: RGBA(255,255,255,1)},
+        
+        primaryAccentDark: {hex: "#6365a7", rgba: RGBA(99, 101, 167,1)},
+        primaryAccentDefault: {hex: "#34b67f", rgba: RGBA(52,182,127,1)},
+        primaryAccentHighContrast: {hex: "#000000", rgba: RGBA(0,0,0,1)},
+        
+        secondaryAccentDark: {hex: "#8082c3", rgba: RGBA(128,130,195,1)},
+        secondaryAccentDefault: {hex: "#7173b0", rgba: RGBA(113,115,176,1)},
+        secondaryAccentHighContrast: {hex: "#000000", rgba: RGBA(0,0,0,1)},
+        
+        tertiaryAccentDark: {hex: "#e0614b", rgba: RGBA(224,97,75,1)},
+        tertiaryAccentDefault: {hex: "#ce2c60", rgba: RGBA(206,44,96,1)},
+        tertiaryAccentHighContrast: {hex: "#000000", rgba: RGBA(0,0,0,1)},
+        
+        neutralLightDark: {hex: "#4f4f4f" , rgba: RGBA(79,79,79,1)},
+        neutralLightDefault: {hex: "#d2d7da", rgba: RGBA(210,215,218,1)},
+        neutralLightHighContrast: {hex: "#000000", rgba: RGBA(0,0,0,1)},
+        
+        neutralStrongDark: {hex: "#7a7a7a", rgba: RGBA(122,122,122,1)},
+        neutralStrongDefault: {hex: "#6e747a" , rgba: RGBA(140,140,140,1)},
+        neutralStrongHighContrast: {hex: "#000000", rgba: RGBA(0,0,0,1)},
+        
+        bodyDark: {hex: "#ffffff" , rgba: RGBA(255,255,255,1)},
+        bodyDefault: {hex: "#1a1c1e", rgba: RGBA(0,0,0,1)},
+        bodyHighContrast: {hex: "#000000", rgba: RGBA(0,0,0,1)},
+
+        fillDark: {hex: "#201e1f" , rgba: RGBA(32,30,31,1)},
+        fillDefault: {hex: "#26292c", rgba: RGBA(38,41,44,1)},
+        fillHighContrast: {hex: "#ffffff", rgba: RGBA(255,255,255,1)}
+    }
+);
